@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>胡 一</title>
+    <link>https://sixinyanzi.github.io/</link>
+    <description>Recent content on 胡 一</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 02 Jan 2021 12:34:55 +0800</lastBuildDate><atom:link href="https://sixinyanzi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://sixinyanzi.github.io/post/test/</link>
+      <pubDate>Sat, 02 Jan 2021 12:34:55 +0800</pubDate>
+      
+      <guid>https://sixinyanzi.github.io/post/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sixinyanzi.github.io/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sixinyanzi.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://sixinyanzi.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sixinyanzi.github.io/about/</guid>
+      <description>仅用来记录自己的学习过程
+学习更多关于网站的知识 GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>
